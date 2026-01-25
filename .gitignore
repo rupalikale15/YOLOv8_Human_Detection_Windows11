@@ -1,0 +1,3 @@
+*.pyc
+/venv
+yolov8n.pt
