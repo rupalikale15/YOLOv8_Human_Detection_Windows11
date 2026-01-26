@@ -1,4 +1,4 @@
-
+<img width="1919" height="1079" alt="Screenshot 2026-01-25 115710" src="https://github.com/user-attachments/assets/fe1895a9-a799-4207-b3db-2cff39a09bc1" />
 # YOLOv8 Human Detection & Counting (Windows 11)
 A real-time **Human Detection and Counting system** built using **YOLOv8**, **OpenCV**, and a **Tkinter-based GUI**.  
 The application supports **Webcam**, **Video Files**, and **IP/RTSP streams**, making it suitable for surveillance, traffic monitoring, and crowd analysis use cases.
@@ -48,7 +48,10 @@ IP / RTSP Stream
 🔹 Output Screenshot
 Below is a sample output showing real-time human detection and counting on a traffic video stream:
 <img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/22f3dcf8-bd5f-4876-a1f7-e92194bd94b9" />
-![Uploading Screenshot 2026-01-25 115710.png…]()
+"C:\Users\SHUBHAM\OneDrive\Pictures\Screenshots\Screenshot 2026-01-25 115710.png"
+
+
+
 
 
 🔹 Use Cases
