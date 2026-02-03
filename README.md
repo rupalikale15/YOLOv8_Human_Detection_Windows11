@@ -49,7 +49,7 @@ IP / RTSP Stream
 Below is a sample output showing real-time human detection and counting on a traffic video stream:
 <img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/22f3dcf8-bd5f-4876-a1f7-e92194bd94b9" />
 <img width="1919" height="1079" alt="Screenshot 2026-01-25 115710" src="https://github.com/user-attachments/assets/fe1895a9-a799-4207-b3db-2cff39a09bc1" />
-
+---
 
 🔹 Use Cases
 
